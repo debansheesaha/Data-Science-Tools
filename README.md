@@ -1,28 +1,36 @@
-# Data-Science-Tools
+# Data-Science-Methodology
 
-This course teaches about the day-to-day experiences of Data Scientists. You’ll be introduced to some of the programming languages commonly used, including Python, R, Scala, and SQL. You’ll work with the tools that professional Data Scientists work with, like Jupyter Notebooks, RStudio IDE, and others. You will learn about what each tool is used for, what languages they can execute, and their features and limitations. With the tools hosted in the cloud on Cognitive Class Labs, you will be able to use each tool and follow instructions to run simple code in Python, R, or Scala.
+In this course you will learn about:
 
-In this course, you will:
-
-        Explore the languages, tools, and data that data scientists use.
+        The major steps involved in tackling a data science problem.
         
-        Use common open source tools to  perform data science tasks.
+        The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
         
-        Discover IBM tools focused on data science
+        How data scientists think through tackling interesting real-world examples. 
+
         
 ## Modules:
-Module 0 - Welcome and Course Introduction
+Module 1: From Problem to Approach
 
-Module 1 - Languages of Data Science
+        Business Understanding
+        Analytic Approach
 
-Module 2 - Data Science Tools
+Module 2: From Requirements to Collection 
 
-Module 3 - Packages, APIs, Data Sets and Models
+        Data Requirements
+        Data Collection
 
-Module 4 - GitHub
+Module 3: From Understanding to Preparation 
 
-Module 5 - Jupyter Notebooks and JupyterLab
+        Data Understanding
+        Data Preparation
 
-Module 6 - RStudio IDE
+Module 4: From Modeling to Evaluation
 
-Module 7 - Watson Studio
+        Modeling
+        Evaluation
+
+Module 5: From Deployment to Feedback
+
+        Deployment
+        Feedback
