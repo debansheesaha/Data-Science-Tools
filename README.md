@@ -4,5 +4,24 @@ This course teaches about the day-to-day experiences of Data Scientists. You’l
 
 In this course, you will:
         Explore the languages, tools, and data that data scientists use.
+        
         Use common open source tools to  perform data science tasks.
-        Discover IBM tools focused on data science.
+        
+        Discover IBM tools focused on data science
+        
+##Modules:
+Module 0 - Welcome and Course Introduction
+
+Module 1 - Languages of Data Science
+
+Module 2 - Data Science Tools
+
+Module 3 - Packages, APIs, Data Sets and Models
+
+Module 4 - GitHub
+
+Module 5 - Jupyter Notebooks and JupyterLab
+
+Module 6 - RStudio IDE
+
+Module 7 - Watson Studio
