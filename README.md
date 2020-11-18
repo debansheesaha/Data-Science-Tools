@@ -1,36 +1,42 @@
-# Data-Science-Methodology
+# R 101
 
-In this course you will learn about:
+This course covers:
 
-        The major steps involved in tackling a data science problem.
-        
-        The major steps involved in practicing data science, from forming a concrete business or research problem, to collecting and analyzing data, to building a model, and understanding the feedback after model deployment.
-        
-        How data scientists think through tackling interesting real-world examples. 
-
+        The basics of R
+        Writing your own R scripts
+        How to use R to solve problems related to movies data
+        The fundamentals of R Syntax
+        Vectors, lists, matrix, arrays and dataframes
+        Reading and writing data in R
         
 ## Modules:
-Module 1: From Problem to Approach
+Module 1 - R basics
 
-        Business Understanding
-        Analytic Approach
+        Math, Variables, and Strings
+        Vectors and Factors
+        Vector operations
 
-Module 2: From Requirements to Collection 
+Module 2 - Data structures in R
 
-        Data Requirements
-        Data Collection
+        Arrays & Matrices
+        Lists
+        Dataframes
 
-Module 3: From Understanding to Preparation 
+Module 3 - R programming fundamentals
 
-        Data Understanding
-        Data Preparation
+        Conditions and loops
+        Functions in R
+        Objects and Classes
+        Debugging
 
-Module 4: From Modeling to Evaluation
+Module 4 - Working with data in R
 
-        Modeling
-        Evaluation
+        Reading CSV and Excel Files
+        Reading text files
+        Writing and saving data objects to file in R
 
-Module 5: From Deployment to Feedback
+Module 5 - Strings and Dates in R
 
-        Deployment
-        Feedback
+        String operations in R
+        Regular Expressions
+        Dates in R
